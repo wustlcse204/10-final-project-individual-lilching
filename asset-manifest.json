@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/10-final-project-individual-lilching/static/css/main.df44e075.chunk.css",
-    "main.js": "/10-final-project-individual-lilching/static/js/main.ba8fee69.chunk.js",
-    "main.js.map": "/10-final-project-individual-lilching/static/js/main.ba8fee69.chunk.js.map",
-    "runtime-main.js": "/10-final-project-individual-lilching/static/js/runtime-main.498aceb6.js",
-    "runtime-main.js.map": "/10-final-project-individual-lilching/static/js/runtime-main.498aceb6.js.map",
+    "main.css": "/10-final-project-individual-lilching/static/css/main.de2b3c2f.chunk.css",
+    "main.js": "/10-final-project-individual-lilching/static/js/main.953ba8fb.chunk.js",
+    "main.js.map": "/10-final-project-individual-lilching/static/js/main.953ba8fb.chunk.js.map",
+    "runtime-main.js": "/10-final-project-individual-lilching/static/js/runtime-main.dbb97fb9.js",
+    "runtime-main.js.map": "/10-final-project-individual-lilching/static/js/runtime-main.dbb97fb9.js.map",
     "static/js/2.b2aa25c5.chunk.js": "/10-final-project-individual-lilching/static/js/2.b2aa25c5.chunk.js",
     "static/js/2.b2aa25c5.chunk.js.map": "/10-final-project-individual-lilching/static/js/2.b2aa25c5.chunk.js.map",
-    "static/js/3.e950cf11.chunk.js": "/10-final-project-individual-lilching/static/js/3.e950cf11.chunk.js",
-    "static/js/3.e950cf11.chunk.js.map": "/10-final-project-individual-lilching/static/js/3.e950cf11.chunk.js.map",
+    "static/js/3.b584e57a.chunk.js": "/10-final-project-individual-lilching/static/js/3.b584e57a.chunk.js",
+    "static/js/3.b584e57a.chunk.js.map": "/10-final-project-individual-lilching/static/js/3.b584e57a.chunk.js.map",
     "index.html": "/10-final-project-individual-lilching/index.html",
-    "static/css/main.df44e075.chunk.css.map": "/10-final-project-individual-lilching/static/css/main.df44e075.chunk.css.map",
+    "static/css/main.de2b3c2f.chunk.css.map": "/10-final-project-individual-lilching/static/css/main.de2b3c2f.chunk.css.map",
     "static/js/2.b2aa25c5.chunk.js.LICENSE.txt": "/10-final-project-individual-lilching/static/js/2.b2aa25c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.498aceb6.js",
+    "static/js/runtime-main.dbb97fb9.js",
     "static/js/2.b2aa25c5.chunk.js",
-    "static/css/main.df44e075.chunk.css",
-    "static/js/main.ba8fee69.chunk.js"
+    "static/css/main.de2b3c2f.chunk.css",
+    "static/js/main.953ba8fb.chunk.js"
   ]
 }
